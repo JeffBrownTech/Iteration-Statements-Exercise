@@ -1,0 +1,15 @@
+C:\gh\Iteration-Statements-Exercise\IterationStatements\bin\Debug\net9.0\IterationStatements.exe
+C:\gh\Iteration-Statements-Exercise\IterationStatements\bin\Debug\net9.0\IterationStatements.deps.json
+C:\gh\Iteration-Statements-Exercise\IterationStatements\bin\Debug\net9.0\IterationStatements.runtimeconfig.json
+C:\gh\Iteration-Statements-Exercise\IterationStatements\bin\Debug\net9.0\IterationStatements.dll
+C:\gh\Iteration-Statements-Exercise\IterationStatements\bin\Debug\net9.0\IterationStatements.pdb
+C:\gh\Iteration-Statements-Exercise\IterationStatements\obj\Debug\net9.0\IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\gh\Iteration-Statements-Exercise\IterationStatements\obj\Debug\net9.0\IterationStatements.AssemblyInfoInputs.cache
+C:\gh\Iteration-Statements-Exercise\IterationStatements\obj\Debug\net9.0\IterationStatements.AssemblyInfo.cs
+C:\gh\Iteration-Statements-Exercise\IterationStatements\obj\Debug\net9.0\IterationStatements.csproj.CoreCompileInputs.cache
+C:\gh\Iteration-Statements-Exercise\IterationStatements\obj\Debug\net9.0\IterationStatements.sourcelink.json
+C:\gh\Iteration-Statements-Exercise\IterationStatements\obj\Debug\net9.0\IterationStatements.dll
+C:\gh\Iteration-Statements-Exercise\IterationStatements\obj\Debug\net9.0\refint\IterationStatements.dll
+C:\gh\Iteration-Statements-Exercise\IterationStatements\obj\Debug\net9.0\IterationStatements.pdb
+C:\gh\Iteration-Statements-Exercise\IterationStatements\obj\Debug\net9.0\IterationStatements.genruntimeconfig.cache
+C:\gh\Iteration-Statements-Exercise\IterationStatements\obj\Debug\net9.0\ref\IterationStatements.dll
